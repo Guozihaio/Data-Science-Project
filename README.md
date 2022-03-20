@@ -7,6 +7,6 @@ Keshav Prasath
 
 Xiaohan Ma
 
-Sirui Wang
+Sirui Wang sirui@student.unimelb.edu.au
 
 Kexin Li
