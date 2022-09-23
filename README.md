@@ -30,7 +30,7 @@ https://github.com/LivSim2017/LivSim-Codes
 
 
 
-Ref:
+# Ref:
 [1] Kilambi, Vikram, and Sanjay Mehrotra. "Improving liver allocation using optimized neighborhoods." Transplantation 101.2 (2017): 350-359.
 
 [2] Mehrotra, Sanjay, et al. "A Concentric Neighborhood Solution to Disparity in Liver Access That Contains Current UNOS Districts." Transplantation 102.2 (2018): 255-278.
