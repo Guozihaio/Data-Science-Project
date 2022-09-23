@@ -9,7 +9,7 @@ Xiaohan Ma 1145763 mxm3@student.unimelb.edu.au
 
 Sirui Wang sirui@student.unimelb.edu.au
 
-Kexin Li 1074282 keli1@student.unimelb.edu.au \
+Kexin Li 1074282 keli1@student.unimelb.edu.au 
 
 ## Survival analysis 
 Work by our group, Please refer to Simulation tool file
