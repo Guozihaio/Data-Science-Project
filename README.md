@@ -11,8 +11,8 @@ Sirui Wang sirui@student.unimelb.edu.au
 
 Kexin Li 1074282 keli1@student.unimelb.edu.au 
 
-## Survival analysis 
-Work by our group, Please refer to Simulation tool file
+## Survival analysis & Classification
+Please refer to Simulation tool file
 
 ## Cox Proportional-Hazards with neural network
 View the link for more information
