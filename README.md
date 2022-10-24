@@ -3,7 +3,7 @@ This is the place for our group member to edit our data science project
 # Group member
 Zihao Guo 931278 zihaog1@student.unimelb.edu.au
 
-Keshav Prasath
+Keshav Prasath kprasath@student.unimelb.edu.au
 
 Xiaohan Ma 1145763 mxm3@student.unimelb.edu.au
 
