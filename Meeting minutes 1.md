@@ -7,6 +7,9 @@ Date: 06/03/2022
 Time: 12:00-13:00
 
 Attendees: Eunice Lee, Enes Makalic, Hamideh Anjomshoa, Kesha, Zihao, Xiaohan, Kexin, Sirui
+
+______________________________________________________________________________________________________
+
 1) Introduced one another to our group, talked about our backgrounds, strengths, weakness, research interests.
 
 - Zihao has a strong computing background, enjoys coding in python and Java
