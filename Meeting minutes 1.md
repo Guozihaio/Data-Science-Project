@@ -8,8 +8,8 @@
 - Our strengths seem to compliment each other and we seem to have a very balanced skillset.
 - Open to most projects and a strong willingness to learn fields and domains that they might not have any background knowledge in
 
-## 2) Looked through the project list and decided top 5 projects in preparation for bidding.
+2) Looked through the project list and decided top 5 projects in preparation for bidding.
 
-## 3) Settled on notion and git as our collaborative software of choice as we planned to take down notes of every meeting (as its an added requirement for marking)
+3) Settled on notion and git as our collaborative software of choice as we planned to take down notes of every meeting (as its an added requirement for marking)
 
-## 4) Worked out a rough plan for the upcoming weeks on how we approach the project as well pooled together our timetables so that we can fix a weekly hour to dedicate to team meetings.
+4) Worked out a rough plan for the upcoming weeks on how we approach the project as well pooled together our timetables so that we can fix a weekly hour to dedicate to team meetings.
