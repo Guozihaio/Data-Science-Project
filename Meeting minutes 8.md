@@ -2,11 +2,11 @@
 
 # Meeting Agenda and Minutes
 
-Meeting Title: Clarify the important points
+Meeting Title: Draft report discussion
 
 Date: 06/10/2022
 
-Time: 12:30-13:30
+Time: 10:00-11:00
 
 Attendees: Eunice Lee, Enes Makalic, Hamideh Anjomshoa, Zihao,Xiaohan,Kexin,Sirui, Keshav
 
