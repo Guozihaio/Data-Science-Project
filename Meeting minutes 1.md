@@ -6,7 +6,7 @@ Date: 06/03/2022
 
 Time: 12:00-13:00
 
-Attendees: Eunice Lee, Enes Makalic, Hamideh Anjomshoa, Kesha, Zihao, Xiaohan, Kexin, Sirui
+Attendees: Eunice Lee, Enes Makalic, Hamideh Anjomshoa, Kesha, Zihao, Xiaohan
 
 ______________________________________________________________________________________________________
 
