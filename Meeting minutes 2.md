@@ -1,4 +1,14 @@
-# Meeting 2 minutes (13th March 2022)
+# Meeting Agenda and Minutes
+
+Meeting Title: Future planning
+
+Date: 13/03/2022
+
+Time: 12:00-13:00
+
+Attendees: Eunice Lee, Enes Makalic, Hamideh Anjomshoa, Kesha, Zihao,Xiaohan,Kexin,Sirui
+
+______________________________________________________________________________________________________
 
 1) Followed up on submitting deed poll
 
