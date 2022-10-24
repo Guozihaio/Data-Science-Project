@@ -12,9 +12,9 @@ Attendees: Eunice Lee, Enes Makalic, Hamideh Anjomshoa, Zihao,Xiaohan,Kexin,Siru
 
 ______________________________________________________________________________________________________
 
-## Item: Next Steps
+# Item: Next Steps
 
-## Notes:
+Notes:
 
 predict survival time -- get different survival prediction models for post-transplant patients
 and waitting list patients(two groups)
@@ -24,11 +24,15 @@ predict survival for different groups patients
 
 explain the pattern of each cluster
 
-## Item：Plan
+Item：Plan
 
 ## Notes:
 learn more about clustering
+
 read more related papers
+
 report our detailed plan by next Tuesday
+
 Meeting with client
+
 Meeting Agenda and Minutes
