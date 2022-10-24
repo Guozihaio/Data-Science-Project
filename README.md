@@ -11,10 +11,10 @@ Sirui Wang sirui@student.unimelb.edu.au
 
 Kexin Li 1074282 keli1@student.unimelb.edu.au 
 
-## Data visidulization 
+## Data Visualization 
 Please see kesh_viz_1 branches
 
-## Survival analysis & Classification
+## Survival Analysis & Classification
 Please refer to Simulation tool file
 
 ## Cox Proportional-Hazards with neural network
