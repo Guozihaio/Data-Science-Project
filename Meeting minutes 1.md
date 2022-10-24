@@ -1,5 +1,12 @@
-# Meeting 1 minutes (6th March ‘22)
+# Meeting Agenda and Minutes
 
+Meeting Title: Introduction to the group project
+
+Date: 06/03/2022
+
+Time: 12:00-13:00
+
+Attendees: Eunice Lee, Enes Makalic, Hamideh Anjomshoa, Kesha, Zihao, Xiaohan, Kexin, Sirui
 1) Introduced one another to our group, talked about our backgrounds, strengths, weakness, research interests.
 
 - Zihao has a strong computing background, enjoys coding in python and Java
