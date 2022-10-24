@@ -8,4 +8,4 @@ Transplat_classification.ipynb
 Post-transplant_survival_analysis.ipynb & Wlist_Survival_analysis.ipynb
 
 ## Data visualization
-see kesh_viz_1 branches
+1.0_ClusterAnalysis.ipynb & 1.1_ClusterAnalysis_development.ipynb & 2.0_new_data_viz.ipynb
