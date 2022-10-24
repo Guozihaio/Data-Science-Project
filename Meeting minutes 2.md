@@ -6,7 +6,7 @@ Date: 13/03/2022
 
 Time: 12:00-13:00
 
-Attendees: Eunice Lee, Enes Makalic, Hamideh Anjomshoa, Kesha, Zihao,Xiaohan,Kexin,Sirui
+Attendees: Eunice Lee, Enes Makalic, Hamideh Anjomshoa, Kesha, Zihao, Xiaohan, Kexin, Sirui
 
 ______________________________________________________________________________________________________
 
@@ -14,8 +14,8 @@ ________________________________________________________________________________
 
 2) Introduction with the additional team members
 
-- Sophia is interested in report management and analytics
-- Cici is interested in analytics and database related work (SQL)
+- Sirui is interested in report management and analytics
+- Kexin is interested in analytics and database related work (SQL)
 
 TO DO:
 
