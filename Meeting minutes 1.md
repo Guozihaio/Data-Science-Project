@@ -1,6 +1,6 @@
 # Meeting 1 minutes (6th March ‘22)
 
-## 1) Introduced one another to our group, talked about our backgrounds, strengths, weakness, research interests.
+1) Introduced one another to our group, talked about our backgrounds, strengths, weakness, research interests.
 
 - Zihao has a strong computing background, enjoys coding in python and Java
 - Xiaohan has a strong statistics background, fluent in R and statistics
