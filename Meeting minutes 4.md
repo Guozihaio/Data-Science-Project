@@ -8,7 +8,7 @@ Date: 13/04/2022
 
 Time: 13:00-14:00
 
-Attendees:  Enes Makalic, Hamideh Anjomshoa, Kesha, Xiaohan,Kexin,Sirui
+Attendees:  Enes Makalic, Hamideh Anjomshoa, Kesha, Xiaohan,Kexin,Sirui, Zihao
 
 ______________________________________________________________________________________________________
 
