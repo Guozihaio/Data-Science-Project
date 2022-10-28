@@ -14,7 +14,7 @@ Kexin Li 1074282 keli1@student.unimelb.edu.au
 ## Survival Analysis & Classification & Data Visualization
 Please refer to Simulation tool file
 
-## Cox Proportional-Hazards with neural network
+## Coxtime
 View the link for more information
 https://github.com/havakv/pycox
 
