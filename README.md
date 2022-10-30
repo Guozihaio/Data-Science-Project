@@ -12,7 +12,10 @@ Sirui Wang 987796 sirui@student.unimelb.edu.au
 Kexin Li 1074282 keli1@student.unimelb.edu.au 
 
 ## Survival Analysis & Classification & Data Visualization
-Please refer to Simulation tool file
+Please refer to Analysis file
+
+## Meeting minutes
+Please refer to Meeting minutes file
 
 ## Coxtime
 View the link for more information
